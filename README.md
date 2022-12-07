@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabbirchowdhury12&label=Profile%20views&color=0e75b6&style=flat" alt="sabbirchowdhury12" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sabbirchowdhury12" alt="sabbirchowdhury12" /></a> </p>
 
 - 🔭 I’m currently working on **real-time Chat Applicatiomn**
 
@@ -26,7 +25,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabbirchowdhury12&show_icons=true&locale=en&layout=compact" alt="sabbirchowdhury12" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sabbirchowdhury12&show_icons=true&locale=en" alt="sabbirchowdhury12" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sabbirchowdhury12&" alt="sabbirchowdhury12" /></p>
 
