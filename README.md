@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sabbir Chowdhruy</h1>
-<h3 align="center">MERN Stack Developer</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabbirchowdhury12&label=Profile%20views&color=0e75b6&style=flat" alt="sabbirchowdhury12" /> </p>
 
 
-- 🔭 I’m currently working on **real-time Chat Applicatiomn**
+- 🔭 I’m currently working on **Meidicine E-commerce**
 
-- 🌱 I’m currently learning **Javascript Frameworks**
+- 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on **open source projects.**
 
